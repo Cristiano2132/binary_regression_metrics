@@ -199,4 +199,4 @@ pyrightconfig.json
 .env
 .DS_Store
 .idea
-*.ipynb
+# *.ipynb
