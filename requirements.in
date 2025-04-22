@@ -3,6 +3,7 @@ matplotlib
 imbalanced-learn
 seaborn
 scikit-learn
+sklearn_evaluation
 bayesian-optimization
 dtreeviz
 spyder-kernels
